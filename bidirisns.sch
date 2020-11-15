@@ -1,13 +1,13 @@
 EESchema Schematic File Version 4
 EELAYER 30 0
 EELAYER END
-$Descr A4 11693 8268
+$Descr USLetter 11000 8500
 encoding utf-8
 Sheet 1 1
-Title ""
+Title "Bi-directional Current Sense"
 Date ""
 Rev ""
-Comp ""
+Comp "Steiert Solutions"
 Comment1 ""
 Comment2 ""
 Comment3 ""
@@ -161,12 +161,12 @@ Connection ~ 3000 3150
 $Comp
 L custom:GS_logo GS1
 U 1 1 5F77B44A
-P 3900 4100
-F 0 "GS1" H 4050 3900 50  0001 C CNN
-F 1 "GS_logo" H 3900 4350 50  0001 C CNN
-F 2 "footprint:gs_logo_200mil" H 3900 4100 50  0001 C CNN
-F 3 "" H 3900 4100 50  0001 C CNN
-	1    3900 4100
+P 6550 7050
+F 0 "GS1" H 6700 6850 50  0001 C CNN
+F 1 "GS_logo" H 6550 7300 50  0001 C CNN
+F 2 "footprint:gs_logo_200mil" H 6550 7050 50  0001 C CNN
+F 3 "" H 6550 7050 50  0001 C CNN
+	1    6550 7050
 	1    0    0    -1  
 $EndComp
 $Comp
